@@ -126,6 +126,10 @@
 
 ###
 
+<p align="left">## 🚀 What I Do<br><br>💻 **Backend Engineering**  <br>- Python, Flask, Django, FastAPI<br>- REST APIs & event-driven architectures  <br>- Data engineering (ETL, Spark, DBT)  <br>- CI/CD: Git, Jenkins, Docker, Kubernetes, Terraform  <br><br>🤖 **Generative AI & Agentic Workflows**  <br>- LangChain, LangGraph, LCEL  <br>- RAG pipelines, LangSmith, ReAct & multi-agent systems  <br>- Prompt engineering & LLM integrations (GPT, Gemini)<br><br><br>## 🌟 Featured Projects<br><br>- 🔍 **RAG-based Knowledge Assistant**  <br>  A retrieval-augmented generation system leveraging LangChain and vector databases for intelligent knowledge retrieval.<br><br>- 🤖 **Multi-Agent Customer Support System**  <br>  Built a fully automated support system with LangGraph, enabling real-time, agentic interactions.<br><br>- 🧠 **Intelligent SQL Query Builder**  <br>  A natural language to SQL tool, translating plain English queries into optimized SQL commands.<br><br><br>---<br><br>## 🏆 Certifications<br><br>- Mastering LangGraph & Agentic Workflows (LangChain Academy)<br>- AI Agents Automation (Udemy)<br>- Mastering Apache Spark with Spark SQL & PySpark 3<br>- Developing Autonomous AI Agents (LangGraph)</p>
+
+###
+
 <h3 align="center">Visitors Count</h3>
 
 ###
